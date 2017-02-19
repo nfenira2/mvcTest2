@@ -13,6 +13,7 @@ public class DemoController
 	@RequestMapping(method = RequestMethod.GET)
 	public String printWelcome(ModelMap model) 
 	{
+		String str2="label";
 		model.addAttribute("message", "Spring 3 MVC Hello World !! Thanks to www.howtodoinjava.com");
 		return "helloWorld43";
 	}
