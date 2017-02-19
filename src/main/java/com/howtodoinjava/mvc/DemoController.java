@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @RequestMapping("/access")
 public class DemoController 
 {
+    String test1="cc";
 	@RequestMapping(method = RequestMethod.GET)
 	public String printWelcome(ModelMap model) 
 	{
