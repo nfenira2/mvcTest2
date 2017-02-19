@@ -1,4 +1,4 @@
-package com.howtodoinjava.web;
+package com.howtodoinjava.mvc;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
