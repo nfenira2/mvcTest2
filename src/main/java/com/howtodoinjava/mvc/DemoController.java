@@ -13,6 +13,6 @@ public class DemoController
 	public String printWelcome(ModelMap model) 
 	{
 		model.addAttribute("message", "Spring 3 MVC Hello World !! Thanks to www.howtodoinjava.com");
-		return "helloWorld22";
+		return "helloWorld4";
 	}
 }
