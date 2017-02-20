@@ -11,7 +11,7 @@ public class DemoController
 
 {
     String test10="cc10";
-
+    String test22="cc22";
 	@RequestMapping(method = RequestMethod.GET)
 	public String printWelcome(ModelMap model) 
 	{
