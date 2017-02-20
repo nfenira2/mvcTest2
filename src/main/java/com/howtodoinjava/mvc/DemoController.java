@@ -13,6 +13,7 @@ public class DemoController
     String test2="cc2";
     String test1="cc1";
     String test22="cc22";
+    String test11="cc11";
 
 	@RequestMapping(method = RequestMethod.GET)
 	public String printWelcome(ModelMap model) 
