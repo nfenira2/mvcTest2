@@ -22,4 +22,14 @@
   <classpathentry kind="var" path="M2_REPO/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/springframework/spring-context-support/3.0.5.RELEASE/spring-context-support-3.0.5.RELEASE.jar"/>
   <classpathentry kind="var" path="M2_REPO/taglibs/standard/1.1.2/standard-1.1.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tiles/tiles-jsp/2.2.2/tiles-jsp-2.2.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tiles/tiles-servlet/2.2.2/tiles-servlet-2.2.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tiles/tiles-core/2.2.2/tiles-core-2.2.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tiles/tiles-api/2.2.2/tiles-api-2.2.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-digester/commons-digester/2.0/commons-digester-2.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/jcl-over-slf4j/1.5.8/jcl-over-slf4j-1.5.8.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.5.8/slf4j-api-1.5.8.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tiles/tiles-template/2.2.2/tiles-template-2.2.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-jdk14/1.5.8/slf4j-jdk14-1.5.8.jar"/>
 </classpath>
